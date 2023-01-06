@@ -50,7 +50,7 @@ Developer with the ability to analyze and solve problems of high complexity and 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
 <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="angular-logo" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" alt="spring-logo" width="80" height="80"/> </a> 
+<img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="spring-logo" width="80" height="80"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" alt="spring-boot-logo" width="40" height="40"/>
 </a>
