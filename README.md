@@ -3,7 +3,7 @@
 
 <h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Mbiaha Rodrigue. 😁</h1>
 <h2 align="center">Fullstack Developer JAVA (Spring Boot) / Angular 💻</h2>
-<center><img src="https://github.com/RodrigueMbiabo/RodrigueMbiabo/giphy.gif"/></center>
+<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
 
 <a href="https://github.com/rodriguembiabo" target="_blank">
