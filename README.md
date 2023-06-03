@@ -43,7 +43,7 @@ Developer with the ability to analyze and solve problems of high complexity and 
 </a> 
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" alt="spring-boot-logo" width="40" height="40"/>
+<img src="https://spring.io/img/spring-2.svg" alt="spring-boot-logo" width="40" height="40"/>
 </a>
 
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
