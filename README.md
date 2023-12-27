@@ -120,7 +120,7 @@ Developer with the ability to analyze and solve problems of high complexity and 
 ## :mega: Acknowledgments
 
 * alx School (providing guidance)
-[Rodrigue Mbiaha]|[LinkedIn](https://linkedin.com/in/rodrigue-mbiaha-42155a190) | [GitHub](https://github.com/malu17)
+[Rodrigue Mbiaha]|[LinkedIn](https://linkedin.com/in/rodrigue-mbiaha-42155a190) | [GitHub](https://github.com/rodriguembiabo)
 
 </div>  
 
